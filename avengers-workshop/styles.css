@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+   padding: 0;
+   background-color:#234420;
+}
+
+nav {
+  width: 400px;
+  height: 160px;
+  border-style:dotted;
+  position:fixed;
+  top: 0;
+}
+ul {
+    list-style-type: none;
+    margin-top:0px; 40px; 0px; 40px;
+    padding: 0px;
+    overflow: hidden;
+}
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 66px;
+ margin-bottom: 30px;
+ margin-top: 20px;
+}
+
+li {
+    float: right;
+  }
+li a:hover{
+  background-color: red;
+}
+
+fieldset{
+    padding: 25px;
+    border: 1px solid #888;
+    width: 40%;
+}
+
+fieldset{
+    color: #aaa;
+    float: right;
+    font-size: 38px;

@@ -1,0 +1,35 @@
+body{
+  background-color: #102910;
+}
+img{
+
+}
+
+button {
+    background-color: #456700;
+    border: none;
+    color: black;
+    padding: 25px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+div {
+  padding-bottom: 50px;
+  background-color: #898909;
+  border: none;
+  color: white;
+  padding: 35px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor:pointer;
+}
+ ul li {
+list-style-type: none;
+}
